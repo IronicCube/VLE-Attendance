@@ -12,7 +12,8 @@ To download the file:
 Ensure the directory that the executable is stored in has the following files in it too:
   - A file called "Session{}" with the session number replacing the braces
   - A file called "RollCall" saved in the CSV UTF-8 (Comma delimited) format
- If these files are not in the directory, the program will not work.
+
+If these files are not in the directory, the program will not work.
 
 This will create a new CSV file named "RollChecked {}" with the session number replacing the braces.
 
